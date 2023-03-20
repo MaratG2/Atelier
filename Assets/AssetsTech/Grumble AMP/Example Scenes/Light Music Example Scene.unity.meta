@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25f1795081c33c24bb541276fcee2fd4
+timeCreated: 1450038576
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52023
+  packageName: Adaptive Music Player
+  packageVersion: 1.0
+  assetPath: Assets/Grumble AMP/Example Scenes/Light Music Example Scene.unity
+  uploadId: 94354

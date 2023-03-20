@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 14a7e9345459848449b15ba68cfac85f
+timeCreated: 1449548827
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52023
+  packageName: Adaptive Music Player
+  packageVersion: 1.0
+  assetPath: Assets/Grumble AMP/Music Tracks/Puzzle Cube - Medium Layer - 60ms Overlap.ogg
+  uploadId: 94354
