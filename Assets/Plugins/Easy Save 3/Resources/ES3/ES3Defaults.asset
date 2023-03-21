@@ -32,10 +32,10 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - Zenject
     - UniRx
+    - Assembly-CSharp
     - Cinemachine
     - PPv2URPConverters
     - Zenject-IntegrationTests
-    - Assembly-CSharp
     - UniRx.Examples
     - sc.fae.editor
     - AllIn1SpriteShaderAssembly
